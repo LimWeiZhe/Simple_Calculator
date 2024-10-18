@@ -60,4 +60,4 @@ stage('Deploy to GitHub Pages') {
       echo 'One or more stages failed. Check the logs for details.'
     }
   }
-}
+
